@@ -20,7 +20,7 @@ export default function Casos() {
         <div className='container' style={estilo}>
             <h1>Casos</h1>
             <ul class="list-group">
-                <li class="list-group-item"><Link className='navbar-brand' style={linkStyle} to="/casos/viviana">Caso Viviana Vivanco</Link></li>
+                <li class="list-group-item"><Link className='navbar-brand' style={linkStyle} to="/casos/viviana">Viviana Vivanco</Link></li>
                 <li class="list-group-item"><Link className='navbar-brand' style={linkStyle}to="/casos/tirador">El Tirador de La Reina</Link></li>
             </ul>
             <PiePagina />
